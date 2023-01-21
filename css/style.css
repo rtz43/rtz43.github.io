@@ -64,7 +64,9 @@ a {
   font-size: 0.9em;
   color: #555;
 }
-.footer-container,
+.footer-container {
+  margin: 0 10px;
+}
 .footer-meta {
   font-size: 11px;
   color: #999;
@@ -72,11 +74,9 @@ a {
   margin: 0 10px;
   display: inline-flex;
 }
-.footer-container a,
 .footer-meta a {
   color: #777;
 }
-.footer-container a:hover,
 .footer-meta a:hover {
   color: #555;
 }
