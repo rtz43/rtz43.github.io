@@ -1,7 +1,6 @@
 .footer-container {
   display: flex;
   justify-content: center;
-  margin-bottom: 0px;
 }
 .footer-meta {
   font-size: 11px;
